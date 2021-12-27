@@ -1,9 +1,6 @@
 # Olá ! Eu sou o Kelvis Mendes 👋
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 Atualmente trabalho com .NET
 - 🌱 Estudando React-native 
 - 💬 Contate-me no email : kelvismendes@gmail.com
