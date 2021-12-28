@@ -1,4 +1,4 @@
-# Olá ! Eu sou o Kelvis Mendes 👋
+# Olá ! Meu nome é Kelvis Mendes 👋
 
 
 - 🔭 Atualmente trabalho com .NET
